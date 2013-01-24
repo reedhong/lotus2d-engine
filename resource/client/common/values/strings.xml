@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    <string name="CONFIRM" description="">确定</string>
+	<string name="CANCEL" description="">取消</string>
+</strings>

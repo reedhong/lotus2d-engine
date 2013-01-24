@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<page version="1.0" offsetX="0" offsetY="0" name="play" x="0" y="0" width="800" height="480" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="1" isFocused="0" hasChild="1">
+    <patch type="5" patchSpriteKey="39665" index="3" name="patch7" x="0" y="-1" width="800" height="480" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="0" isFocused="1" hasChild="0" />
+</page>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<page version="1.0" offsetX="0" offsetY="0" name="splash" x="0" y="0" width="800" height="480" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="1" isFocused="0" hasChild="1">
+    <patch type="5" patchSpriteKey="39665" index="1" name="patch10" x="3" y="2" width="800" height="480" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="0" isFocused="0" hasChild="0" />
+    <panel name="panel12" x="419" y="60" width="299" height="364" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="1" isFocused="0" hasChild="1" type="4">
+        <text type="0" content="单机对战" font_size="18" font_color="-16777216" font_border_color="-842150451" font_align="2" font_direction="1" name="" x="57" y="149" width="187" height="38" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="enter_local" visible="1" focusable="0" isFocused="1" hasChild="0" />
+        <text type="0" content="游戏大厅" font_size="18" font_color="-16777216" font_border_color="-842150451" font_align="2" font_direction="1" name="text13" x="56" y="214" width="190" height="35" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="0" isFocused="0" hasChild="0" />
+        <text type="0" content="联网游戏" font_size="18" font_color="-16777216" font_border_color="-842150451" font_align="2" font_direction="1" name="text14" x="56" y="279" width="191" height="37" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="0" isFocused="0" hasChild="0" />
+        <text type="0" content="斗地主" font_size="20" font_color="-65536" font_border_color="-842150451" font_align="2" font_direction="1" name="text15" x="-313" y="142" width="153" height="68" bgSpriteKey="0" aframeIndex="-1" focusedAframeIndex="-1" mainEvent="" visible="1" focusable="0" isFocused="0" hasChild="0" />
+    </panel>
+</page>
